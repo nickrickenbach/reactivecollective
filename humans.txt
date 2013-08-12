@@ -1,0 +1,20 @@
+/* TEAM */
+
+    CCO: Nick Rickenbach
+    Contact: nick [at] reactivecollective.com
+    Twitter: @EmpDesigns
+    From: Huntington Beach, CA, USA
+
+    COO: Craig Schinnerer
+    Contact: craig [at] reactivecollective.com
+    Twitter: @CraigSchinnerer
+    From: Huntington Beach, CA, USA
+
+/* THANKS */
+
+    http://www.empatheticdesigns.com
+
+/* SITE */
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
